@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eiramesor
-- 👀 I’m interested in learning more about different programming languages and application development
-- 🌱 I’m currently learning C# and Microsoft Power Automate at the moment
+- 👀 I’m interested in learning different programming languages and to know more about application development, Intelligent Automation also interest me.
+- 🌱 I’m currently learning C# and Microsoft Power Automate.
 - 💞️ I’m looking to have a collaboration someday
 - 📫 You can reach me here and my other social media account.
 
